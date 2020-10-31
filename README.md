@@ -1,18 +1,18 @@
 # ISS Assignment 3
 
-##Assignment 3 for Intro to Software Systems
+## Assignment 3 for Intro to Software Systems
 
 This is a game made for an assignment.
 The purpose of this assignment was to improve our understanding and proficiency in Python.
 We were supposed to make a game according to the specifications using the pygame module.
 
 
-##Controls:
+## Controls:
 
 W/A/S/D - Player 1.
 I/J/K/L - Player 2.
 
-##Rules:
+## Rules:
 
 - Each player has 3 lives.
 - Crashing into an obstacle results in the loss of a life.
